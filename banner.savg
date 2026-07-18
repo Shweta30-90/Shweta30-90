@@ -1,0 +1,83 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#050816"/>
+<stop offset="100%" stop-color="#0b1120"/>
+</linearGradient>
+
+<linearGradient id="cyan" x1="0%" y1="0%" x2="100%" y2="0%">
+<stop offset="0%" stop-color="#00F5FF"/>
+<stop offset="100%" stop-color="#00BFFF"/>
+</linearGradient>
+
+<filter id="glow">
+<feGaussianBlur stdDeviation="6" result="coloredBlur"/>
+<feMerge>
+<feMergeNode in="coloredBlur"/>
+<feMergeNode in="SourceGraphic"/>
+</feMerge>
+</filter>
+</defs>
+
+<rect width="1200" height="300" rx="20" fill="url(#bg)"/>
+
+<circle cx="170" cy="150" r="85" fill="none"
+stroke="#00F5FF"
+stroke-width="3"
+filter="url(#glow)"/>
+
+<circle cx="170" cy="150" r="70"
+fill="#111827"/>
+
+<text x="330"
+y="110"
+font-size="48"
+font-family="Segoe UI"
+fill="#00F5FF"
+font-weight="bold">
+
+SHWETA SHARMA
+
+</text>
+
+<text
+x="330"
+y="150"
+font-size="22"
+fill="white"
+font-family="Segoe UI">
+
+Full Stack AI Developer
+
+</text>
+
+<text
+x="330"
+y="185"
+font-size="20"
+fill="#9CA3AF">
+
+MERN • FastAPI • Python • AI/ML
+
+</text>
+
+<line
+x1="330"
+y1="205"
+x2="930"
+y2="205"
+stroke="#00F5FF"
+stroke-width="2"/>
+
+<text
+x="330"
+y="245"
+font-size="18"
+fill="#00F5FF">
+
+🚀 Building Real World AI Applications
+
+</text>
+
+</svg>
