@@ -70,7 +70,7 @@ Goal      : Software Engineer
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shweta30-90&show_icons=true&theme=tokyonight"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shweta30-90&theme=tokyonight"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Shweta30-90&theme=tokyonight"/>
 
 </p>
 
@@ -86,7 +86,7 @@ Goal      : Software Engineer
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Shweta30-90&theme=algolia&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Shweta30-90&theme=algolia"/>
 
 </p>
 
@@ -99,3 +99,56 @@ Goal      : Software Engineer
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shweta30-90&theme=tokyo-night"/>
 
 </p>
+
+---
+
+# 🚀 FEATURED PROJECTS
+
+### 🤖 AI Financial Fraud Detection System
+- 🔹 MERN Stack + FastAPI + Machine Learning
+- 🔹 Real-time Fraud Detection
+- 🔹 Interactive Dashboard
+- 🔹 AI Risk Prediction
+
+
+---
+
+# 🎯 2026 GOALS
+
+- ✅ Crack Product Based Company
+- ✅ Master MERN Stack
+- ✅ Build 10+ AI Projects
+- ✅ Open Source Contributor
+- ✅ Solve 500+ DSA Problems
+
+---
+
+# 📫 CONNECT WITH ME
+
+<p align="center">
+
+<a href="https://github.com/Shweta30-90">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/shweta-sharma-3b407b295">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:ss7390002L@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## 💻 "Code • Learn • Build • Repeat"
+
+⭐ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:0B1120&height=120&section=footer"/>
+
+</div>
