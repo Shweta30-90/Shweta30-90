@@ -80,10 +80,9 @@ Goal      : Software Engineer
 
 </p>
 
----
-
 
 ---
+
 
 # 📈 CONTRIBUTION GRAPH
 
