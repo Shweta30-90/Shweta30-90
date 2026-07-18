@@ -43,7 +43,6 @@
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
-![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
 
 ---
 
@@ -52,11 +51,6 @@
 ### 🤖 AI Financial Fraud Detection System
 ✔ MERN Stack + FastAPI + Machine Learning
 
-### 📄 AI Resume Screener
-✔ Resume Ranking using AI
-
-### 😊 Face Attendance System
-✔ Real-Time Face Recognition
 
 ---
 
