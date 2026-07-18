@@ -1,89 +1,101 @@
-<h1 align="center">Hi 👋, I'm Shweta Sharma</h1>
-<h3 align="center">🚀 Full Stack AI Developer | MERN Stack | AI/ML Enthusiast</h3>
+<div align="center">
+
+<img src="./banner.svg" width="100%"/>
+
+# 👋 Hi, I'm Shweta Sharma
+
+### 🚀 Full Stack AI Developer | AI/ML Enthusiast | MERN Stack
+
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Full+Stack+AI+Developer;Building+AI+Projects;MERN+%7C+FastAPI+%7C+Python;Open+Source+Learner" />
+</p>
+
+<p>
+
+<img src="https://img.shields.io/github/followers/Shweta30-90?style=for-the-badge&color=00F5FF"/>
+
+<img src="https://img.shields.io/github/stars/Shweta30-90?style=for-the-badge&color=00F5FF"/>
+
+<img src="https://komarev.com/ghpvc/?username=Shweta30-90&style=for-the-badge&color=00F5FF"/>
+
+</p>
+
+</div>
+
+---
+
+# 💠 SYSTEM OVERVIEW
+
+```yaml
+Name      : Shweta Sharma
+Username  : Shweta30-90
+Role      : Full Stack AI Developer
+Learning  : MERN + AI/ML
+Backend   : FastAPI, Node.js
+Frontend  : React
+Database  : MongoDB, MySQL
+Goal      : Software Engineer
+```
+
+---
+
+# ⚡ CURRENT MISSION
+
+- 🚀 Building AI Financial Fraud Detection System
+- 💻 Improving DSA & Development Skills
+- 🤖 Learning Machine Learning
+- 🌍 Creating Placement Ready Projects
+
+---
+# 🛠️ TECH STACK
+
+<div align="center">
+
+| Category | Technologies |
+|----------|--------------|
+| 💻 Languages | Python • Java • JavaScript |
+| 🎨 Frontend | React • HTML • CSS • Tailwind CSS |
+| ⚙ Backend | Node.js • Express • FastAPI |
+| 🤖 AI / ML | Scikit-learn • Pandas • NumPy |
+| 🗄 Database | MongoDB • MySQL |
+| 🛠 Tools | Git • GitHub • VS Code • Postman |
+
+</div>
+
+---
+
+# 📊 GITHUB DASHBOARD
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+AI+Developer;MERN+Stack+Developer;FastAPI+%7C+Python+%7C+React;Building+Real+World+Projects" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shweta30-90&show_icons=true&theme=tokyonight"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shweta30-90&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shweta30-90&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 👩‍💻 About Me
+# 🏆 GITHUB TROPHIES
 
-- 🎓 B.Tech CSE Student
-- 💻 Passionate about Full Stack Development
-- 🤖 Learning AI & Machine Learning
-- 🚀 Currently Building **AI Financial Fraud Detection System**
-- 🌱 Learning React, Node.js, FastAPI & MongoDB
-- 🎯 Goal: Software Engineer in a Product-Based Company
+<p align="center">
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=Shweta30-90&theme=algolia&row=2&column=4"/>
 
-## 🚀 Tech Stack
-
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![HTML5](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-
-### ⚙ Backend
-![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-
-### 🗄 Database
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-
-### 🛠 Tools
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
+</p>
 
 ---
 
-# 📌 Featured Projects
+# 📈 CONTRIBUTION GRAPH
 
-### 🤖 AI Financial Fraud Detection System
-✔ MERN Stack + FastAPI + Machine Learning
+<p align="center">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shweta30-90&theme=tokyo-night"/>
 
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Shweta30-90&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shweta30-90&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shweta30-90&layout=compact&theme=tokyonight)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Shweta30-90&theme=algolia)
-
----
-
-## 📈 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=Shweta30-90&theme=tokyo-night)
-
----
-
-## 📫 Connect With Me
-
-📧 Email : yourmail@gmail.com
-
-💼 LinkedIn : https://linkedin.com/in/shweta-sharma-3b407b295
-
-🌐 Portfolio : https://yourportfolio.com
-
----
-
-<h3 align="center">⭐ Thanks for Visiting My Profile ⭐</h3>
+</p>
