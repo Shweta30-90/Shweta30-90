@@ -68,15 +68,15 @@ Goal      : Software Engineer
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shweta30-90&show_icons=true&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shweta30-90&show_icons=true&theme=tokyonight" />
 
-<img width="49%" src="https://streak-stats.demolab.com?user=Shweta30-90&theme=tokyonight"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Shweta30-90&theme=tokyonight" />
 
 </p>
 
 <p align="center">
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shweta30-90&layout=compact&theme=tokyonight"/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shweta30-90&layout=compact&theme=tokyonight" />
 
 </p>
 
@@ -86,7 +86,7 @@ Goal      : Software Engineer
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Shweta30-90&theme=algolia"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Shweta30-90&theme=algolia&row=2&column=4" />
 
 </p>
 
