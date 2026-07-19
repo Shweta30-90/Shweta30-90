@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Shweta Sharma
 
-### 🚀 Full Stack AI Developer | AI/ML Enthusiast | MERN Stack
+### 🚀 Full Stack Developer | AI/ML Enthusiast | MERN Stack
 
 <p>
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=Full+Stack+AI+Developer;Building+AI+Projects;MERN+%7C+FastAPI+%7C+Python;Open+Source+Learner" />
@@ -58,7 +58,7 @@ Goal      : Software Engineer
 | ⚙ Backend | Node.js • Express • FastAPI |
 | 🤖 AI / ML | Scikit-learn • Pandas • NumPy |
 | 🗄 Database | MongoDB • MySQL |
-| 🛠 Tools | Git • GitHub • VS Code • Postman |
+| 🛠 Tools | Git • GitHub • VS Code |
 
 </div>
 
