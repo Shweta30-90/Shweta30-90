@@ -1,83 +1,174 @@
-<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="320" viewBox="0 0 1200 320"
+     xmlns="http://www.w3.org/2000/svg">
 
-<defs>
-<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-<stop offset="0%" stop-color="#050816"/>
-<stop offset="100%" stop-color="#0b1120"/>
-</linearGradient>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050816"/>
+      <stop offset="100%" stop-color="#0B1024"/>
+    </linearGradient>
 
-<linearGradient id="cyan" x1="0%" y1="0%" x2="100%" y2="0%">
-<stop offset="0%" stop-color="#00F5FF"/>
-<stop offset="100%" stop-color="#00BFFF"/>
-</linearGradient>
+    <linearGradient id="title" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#25F4FF"/>
+      <stop offset="100%" stop-color="#5B8CFF"/>
+    </linearGradient>
 
-<filter id="glow">
-<feGaussianBlur stdDeviation="6" result="coloredBlur"/>
-<feMerge>
-<feMergeNode in="coloredBlur"/>
-<feMergeNode in="SourceGraphic"/>
-</feMerge>
-</filter>
-</defs>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#27F2FF"/>
+      <stop offset="100%" stop-color="#8A5BFF"/>
+    </linearGradient>
 
-<rect width="1200" height="300" rx="20" fill="url(#bg)"/>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
 
-<circle cx="170" cy="150" r="85" fill="none"
-stroke="#00F5FF"
-stroke-width="3"
-filter="url(#glow)"/>
+  <!-- Background -->
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
 
-<circle cx="170" cy="150" r="70"
-fill="#111827"/>
+  <!-- Border -->
+  <rect x="2" y="2" width="1196" height="316" rx="22"
+        fill="none" stroke="#4F73FF" stroke-opacity=".35"/>
 
-<text x="330"
-y="110"
-font-size="48"
-font-family="Segoe UI"
-fill="#00F5FF"
-font-weight="bold">
+  <!-- Left decoration -->
+  <g opacity=".25">
+    <circle cx="70" cy="60" r="2" fill="#33DFFF"/>
+    <circle cx="95" cy="60" r="2" fill="#33DFFF"/>
+    <circle cx="120" cy="60" r="2" fill="#33DFFF"/>
+    <circle cx="145" cy="60" r="2" fill="#33DFFF"/>
 
-SHWETA SHARMA
+    <line x1="0" y1="190" x2="130" y2="190"
+          stroke="#29E3FF" stroke-width="2"/>
+    <line x1="70" y1="190" x2="70" y2="165"
+          stroke="#29E3FF" stroke-width="2"/>
+  </g>
 
-</text>
+  <!-- Name -->
+  <text x="120" y="120"
+        font-size="58"
+        font-family="Segoe UI, Arial"
+        font-weight="700"
+        fill="url(#title)"
+        filter="url(#glow)">
+      SHWETA SHARMA
+  </text>
 
-<text
-x="330"
-y="150"
-font-size="22"
-fill="white"
-font-family="Segoe UI">
+  <!-- Subtitle -->
+  <text x="120" y="170"
+        font-size="28"
+        font-family="Segoe UI, Arial"
+        fill="#FFFFFF">
+      Full Stack
+      <tspan fill="#43A5FF"> Engineer</tspan>
+  </text>
 
-Full Stack AI Developer
+  <!-- Divider -->
+  <line x1="120" y1="195"
+        x2="720" y2="195"
+        stroke="url(#accent)"
+        stroke-width="2"/>
 
-</text>
+  <!-- Skills -->
+  <text x="120" y="235"
+        font-size="24"
+        font-family="Segoe UI, Arial"
+        fill="#24F4FF">
+      ⚛ MERN Stack
+  </text>
 
-<text
-x="330"
-y="185"
-font-size="20"
-fill="#9CA3AF">
+  <text x="315" y="235"
+        font-size="24"
+        font-family="Segoe UI, Arial"
+        fill="#FFFFFF">
+      |
+  </text>
 
-MERN • FastAPI • Python • AI/ML
+  <text x="345" y="235"
+        font-size="24"
+        font-family="Segoe UI, Arial"
+        fill="#FF6B6B">
+      ☕ Java
+  </text>
 
-</text>
+  <text x="465" y="235"
+        font-size="24"
+        font-family="Segoe UI, Arial"
+        fill="#FFFFFF">
+      |
+  </text>
 
-<line
-x1="330"
-y1="205"
-x2="930"
-y2="205"
-stroke="#00F5FF"
-stroke-width="2"/>
+  <text x="495" y="235"
+        font-size="24"
+        font-family="Segoe UI, Arial"
+        fill="#7D7DFF">
+      🧠 AI/ML
+  </text>
 
-<text
-x="330"
-y="245"
-font-size="18"
-fill="#00F5FF">
+  <text x="615" y="235"
+        font-size="24"
+        font-family="Segoe UI, Arial"
+        fill="#FFFFFF">
+      |
+  </text>
 
-🚀 Building Real World AI Applications
+  <text x="645" y="235"
+        font-size="24"
+        font-family="Segoe UI, Arial"
+        fill="#4FA8FF">
+      &lt;/&gt; Real World Applications
+  </text>
 
-</text>
+  <!-- Button -->
+  <rect x="120"
+        y="255"
+        width="410"
+        height="45"
+        rx="12"
+        fill="none"
+        stroke="url(#accent)"
+        stroke-width="2"/>
+
+  <text x="145"
+        y="285"
+        font-size="22"
+        font-family="Segoe UI, Arial"
+        fill="#FFFFFF">
+      🚀 Building Real World
+      <tspan fill="#5EA5FF"> AI Applications</tspan>
+  </text>
+
+  <!-- Right rings -->
+  <circle cx="980" cy="160" r="88"
+          stroke="#208EFF"
+          stroke-width="2"
+          fill="none"
+          opacity=".5"/>
+
+  <circle cx="980" cy="160" r="105"
+          stroke="#5E68FF"
+          stroke-width="2"
+          fill="none"
+          opacity=".35"/>
+
+  <circle cx="980" cy="160" r="122"
+          stroke="#2AEAFF"
+          stroke-width="2"
+          fill="none"
+          opacity=".2"/>
+
+  <!-- Code icon -->
+  <text x="920"
+        y="182"
+        font-size="92"
+        font-family="Consolas, monospace"
+        font-weight="700"
+        fill="url(#accent)"
+        filter="url(#glow)">
+      &lt;/&gt;
+  </text>
 
 </svg>
