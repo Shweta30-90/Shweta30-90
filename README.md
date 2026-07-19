@@ -109,7 +109,6 @@ Goal      : Software Engineer
 
 - ✅ Crack Product Based Company
 - ✅ Master MERN Stack
-- ✅ Build 10+ AI Projects
 - ✅ Open Source Contributor
 - ✅ Solve 500+ DSA Problems
 
