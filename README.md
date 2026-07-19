@@ -29,7 +29,7 @@
 ```yaml
 Name      : Shweta Sharma
 Username  : Shweta30-90
-Role      : Full Stack AI Developer
+Role      : Full Stack Developer
 Learning  : MERN + AI/ML
 Backend   : FastAPI, Node.js
 Frontend  : React
